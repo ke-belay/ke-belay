@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate developer creating clean, efficient, and scalable web solutions.<br>💻 Tech stack includes JavaScript, React, Node.js, and modern  technologies.<br>🎓 Constantly learning new frameworks and improving software engineering best practices.<br>🤝 Open to collaboration on open-source projects and innovative tech ideas.<br>📫 Reach out via email or connect with me on LinkedIn.
+🚀 Hi I'm GEBREMIKAEL SERA a Passionate developer creating clean, efficient, and scalable web solutions.<br>💻 Tech stack includes JavaScript, React, Node.js, and modern  technologies.<br>🎓 Constantly learning new frameworks and improving software engineering best practices.<br>🤝 Open to collaboration on open-source projects and innovative tech ideas.<br>📫 Reach out via email or connect with me on LinkedIn.
 
 
 ## 🌐 Socials:
