@@ -1,5 +1,12 @@
-# 💫 About Me:
-🚀 Hi I'm GEBREMIKAEL SERA a Passionate developer creating clean, efficient, and scalable web solutions.<br>💻 Tech stack includes JavaScript, React, Node.js, and modern  technologies.<br>🎓 Constantly learning new frameworks and improving software engineering best practices.<br>🤝 Open to collaboration on open-source projects and innovative tech ideas.<br>📫 Reach out via email or connect with me on LinkedIn.
+## 👋 About Me
+
+I'm **Gebremikael Sera**, a Computer Science graduate and **Junior Full Stack Developer** passionate about building practical and user-friendly software applications.
+
+💻 Interested in **full-stack web development** and modern software development.  
+📱 Currently expanding my skills in **mobile application development**.  
+🚀 Experienced with **JavaScript, React, Node.js, Express.js, MongoDB, TypeScript, HTML, CSS, and Git**.  
+🐍 Currently learning **Python** and **Kotlin**.  
+🌱 Always learning, building projects, and improving my development skills.
 
 
 ## 🌐 Socials:
